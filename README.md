@@ -1,5 +1,8 @@
 
-#Doğal Dil İşleme (NLP) - Ders Uygulamaları
+# Doğal Dil İşleme (NLP) - Ders Uygulamaları
+
+
+
 Bu repository, Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği bünyesinde aldığım Doğal Dil İşleme (DDI) dersi kapsamında gerçekleştirilen uygulama ve çalışmaları içermektedir.
 
 Bu repo, ihpar/ddi adresindeki ana kaynak üzerinden forklanmış olup, ders süresince öğrendiğim temel NLP tekniklerini ve bu tekniklerin Python ekosistemindeki (NLTK, Spacy, Scikit-learn vb.) uygulamalarını barındırmaktadır.
